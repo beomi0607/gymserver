@@ -37,7 +37,7 @@ const connection = mysql.createConnection({
     host: 'localhost',
     user: 'root',
     password: 'ded98ff0607',
-    database: 'gymreservation',
+    database: 'gymdatabase',
     multipleStatements: true // Allow executing multiple statements in a single query
 });
 
